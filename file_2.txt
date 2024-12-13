@@ -1,0 +1,4 @@
+This document contains an example of text with keywords for testing purposes. 
+The critical system information is included here. 
+Make sure to handle any error messages carefully. 
+Warnings about potential issues are also provided in this file.
