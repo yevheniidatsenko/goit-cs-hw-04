@@ -1,4 +1,4 @@
-# Homework Assignment: “Concurrency and Parallelism”
+# Homework Assignment: Concurrency and Parallelism
 
 ## Topic
 
